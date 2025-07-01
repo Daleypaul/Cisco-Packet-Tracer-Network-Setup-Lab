@@ -24,15 +24,16 @@ In this lab, I created a functional network topology using Cisco Packet Tracer. 
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Launching Cisco Packet Tracer: <br/>
-<img src="IMG_3495.jpg" height="80%" width="80%" alt="Identifying Target Device "/>
+
+<img src="IIMG_2560.png" height="80%" width="80%" alt="Finished project  "/>
 <br />
 <br />
   <b>I opened Cisco Packet Tracer and selected the Logical Workspace to begin designing the network.
 
-
-
+Step 1: Launching Cisco Packet Tracer: <br/>
+I opened Cisco Packet Tracer and selected the Logical Workspace to begin designing the network.
+<br />
+<br />
 Step 2: Launching Cisco Packet Tracer
 I opened Cisco Packet Tracer and selected the Logical Workspace to begin designing the network.
 <br />
