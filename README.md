@@ -1,6 +1,6 @@
-# Cisco-Packet-Tracer-Network-Setup-Lab
+# Cisco Packet Tracer Network Setup Lab
 
-# SCCM Lab: Targeted Software Deployment Using Device Collections
+# End to End Network Design and Configuration Lab in Cisco Packet Tracer with DHCP, DNS, and Web Services
 
 
 <h2>Description</h2>
@@ -25,10 +25,10 @@ In this lab, I created a functional network topology using Cisco Packet Tracer. 
 <h2>Program walk-through:</h2>
 
 
-<img src="IIMG_2560.png" height="80%" width="80%" alt="Finished project  "/>
+<img src="IMG_2560.png" height="80%" width="80%" alt="Finished project  "/>
 <br />
 <br />
-  <b>I opened Cisco Packet Tracer and selected the Logical Workspace to begin designing the network.
+  
 
 Step 1: Launching Cisco Packet Tracer: <br/>
 I opened Cisco Packet Tracer and selected the Logical Workspace to begin designing the network.
